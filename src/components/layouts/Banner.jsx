@@ -11,7 +11,7 @@ import { HiOutlineDownload } from "react-icons/hi";
 
 const Banner = () => {
   return (
-    <section className="mt-9">
+    <section className="pt-9 pb-7 bg-bannerBg">
       <Container>
         <Flex>
           <div className="">

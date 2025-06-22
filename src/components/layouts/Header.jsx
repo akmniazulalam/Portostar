@@ -9,7 +9,7 @@ import { HiOutlineMail } from "react-icons/hi";
 
 const Header = () => {
   return (
-    <section className='py-5'>
+    <section className='py-5 bg-bannerBg'>
       <Container>
         <Flex className={'justify-between'}>
             <div className="">

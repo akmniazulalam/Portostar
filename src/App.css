@@ -4,6 +4,11 @@
 @theme {
   --color-primary: #5E3BEE;
   --color-btnHover: #4b2ec3;
+  --color-bannerBg: #F9F9FC;
+  --color-star: #EEC01C;
+
+  --shadow-boxShadow: 37px 37px 80px 0px rgba(0, 0, 0, 0.1);
+  --shadow-reviewBoxShadow: 10px 10px 80px 0px rgba(0, 0, 0, 0.1);
 
 
   --font-poppins: "Poppins", "sans-serif";
