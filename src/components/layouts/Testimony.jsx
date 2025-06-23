@@ -27,7 +27,7 @@ const Testimony = () => {
         </svg>
         <Heading className={"my-5"} heading={"What Our Clients Say."} />
         <Texts
-          className={"w-[580px] m-auto"}
+          className={"w-1/2 m-auto"}
           pText={
             "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vitae blandit lectus. Praesent at hendrerit velit, at dictum nisl."
           }

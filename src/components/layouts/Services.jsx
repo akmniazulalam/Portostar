@@ -29,7 +29,7 @@ const Services = () => {
             />
           </svg>
           <Heading className={"text-center"} heading={"What I Do For My Customer."}/>
-          <Texts className={"w-[600px] m-auto text-center pt-5"} pText={"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vitae blandit lectus. Praesent at hendrerit velit, at dictum nisl."}/>
+          <Texts className={"w-[51%] m-auto text-center pt-5"} pText={"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vitae blandit lectus. Praesent at hendrerit velit, at dictum nisl."}/>
           <Flex className={"grid grid-cols-3 gap-x-9 mt-12"}>
             <div className="py-12 px-9 bg-white rounded-3xl text-center shadow-boxShadow hover:bg-[#f9f9fc] transition-all duration-300">
               <Image Src={UI} Alt={UI} className={"inline-block"}/>
