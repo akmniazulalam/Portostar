@@ -34,17 +34,17 @@ const Services = () => {
             <div className="py-12 px-9 bg-white rounded-3xl text-center shadow-boxShadow hover:bg-[#f9f9fc] transition-all duration-300">
               <Image Src={UI} Alt={UI} className={"inline-block"}/>
               <ServicesH serviceHeading={"UI/UX Design"} className={"mt-7"}/>
-              <Texts className={"mt-5 w-[285px]"} pText={"lorem ipsum dolor sit amet consectur adi pising leo"}/>
+              <Texts className={"mt-5 "} pText={"lorem ipsum dolor sit amet consectur adi pising leo"}/>
             </div>
             <div className="py-12 px-9 bg-white rounded-3xl text-center shadow-boxShadow hover:bg-[#f9f9fc] transition-all duration-300">
               <Image Src={Product} Alt={Product} className={"inline-block"}/>
               <ServicesH serviceHeading={"Product Design"} className={"mt-7"}/>
-              <Texts className={"mt-5 w-[285px]"} pText={"lorem ipsum dolor sit amet consectur adi pising leo"}/>
+              <Texts className={"mt-5 "} pText={"lorem ipsum dolor sit amet consectur adi pising leo"}/>
             </div>
             <div className="py-12 px-9 bg-white rounded-3xl text-center shadow-boxShadow hover:bg-[#f9f9fc] transition-all duration-300">
               <Image Src={Motion} Alt={Motion} className={"inline-block"}/>
               <ServicesH serviceHeading={"Motion Graphics"} className={"mt-7"}/>
-              <Texts className={"mt-5 w-[285px]"} pText={"lorem ipsum dolor sit amet consectur adi pising leo"}/>
+              <Texts className={"mt-5 "} pText={"lorem ipsum dolor sit amet consectur adi pising leo"}/>
             </div>
           </Flex>
         </Container>

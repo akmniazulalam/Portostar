@@ -40,7 +40,7 @@ const Testimony = () => {
            <FaRegStar className="inline-block text-star text-2xl mr-1"/>
            <FaRegStar className="inline-block text-star text-2xl mr-1"/>
            <FaRegStar className="inline-block text-star text-2xl mr-1"/>
-           <p className="font-poppins font-medium text-[18px] leading-7 w-[430px] py-7">Nulla nunc orci, suscipit vitae rutrum vitae, sagittis eget dui. Vestibulum nisl lorem, porta at mollis varius, tincidunt in lectus. Nam pulvinar auctor sem ac dictum. Ut sed felis urna.</p>
+           <p className="font-poppins font-medium text-[18px] leading-7 w-[88%] py-7">Nulla nunc orci, suscipit vitae rutrum vitae, sagittis eget dui. Vestibulum nisl lorem, porta at mollis varius, tincidunt in lectus. Nam pulvinar auctor sem ac dictum. Ut sed felis urna.</p>
            <Flex>
             <div className="h-16 w-16 bg-primary rounded-full"></div>
             <div className="ml-5">
@@ -56,7 +56,7 @@ const Testimony = () => {
            <FaRegStar className="inline-block text-star text-2xl mr-1"/>
            <FaRegStar className="inline-block text-star text-2xl mr-1"/>
            <FaRegStar className="inline-block text-star text-2xl mr-1"/>
-           <p className="font-poppins font-medium text-[18px] leading-7 w-[430px] py-7">Nulla nunc orci, suscipit vitae rutrum vitae, sagittis eget dui. Vestibulum nisl lorem, porta at mollis varius, tincidunt in lectus. Nam pulvinar auctor sem ac dictum. Ut sed felis urna.</p>
+           <p className="font-poppins font-medium text-[18px] leading-7 w-[88%] py-7">Nulla nunc orci, suscipit vitae rutrum vitae, sagittis eget dui. Vestibulum nisl lorem, porta at mollis varius, tincidunt in lectus. Nam pulvinar auctor sem ac dictum. Ut sed felis urna.</p>
            <Flex>
             <div className="h-16 w-16 bg-primary rounded-full"></div>
             <div className="ml-5">
